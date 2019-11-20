@@ -1,2 +1,2 @@
 # force-of-code
-Maya, Peebs, Katy and Emma
+Maya, Pheebs, Katy and Emma
