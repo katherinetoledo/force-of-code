@@ -1,3 +1,10 @@
+img{
+  diplay: block;
+  padding: 200px;
+  margin: auto;
+  border-radius: 130px;
+}
+
 body {
   background-color: powderblue;
   color: rgb(65,75,86);
