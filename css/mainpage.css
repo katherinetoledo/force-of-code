@@ -1,8 +1,14 @@
 body {
-  background-color: powderblue;
-  color: rgb(65,75,86);
-  font-family: verdana;
+  background-color: #5d3e7e;
+  color: #cfcfcf;
+  font-family: "Spacegrotesk", sans-serif;
   margin: 0px;
+}
+
+h1 {
+  font-size: 50px;
+  color: #cfcfcf;
+  text-align: center;
 }
 
 div {
@@ -10,26 +16,21 @@ div {
   width: 100vw;
 }
 
+h2 {
+  font-size: 36px;
+  text-align: center;
+  font-family: "Spacegrotesk", sans-serif;
+  margin: 10px 0px 10px;
+}
+
 div.contrast {
-  background-color: hotpink;
-  color: rgb(255,255,255);
-  font-family: sans-serif;
+  background-color: #f2ac41;
+  color: #b24a7f;
+  font-family: "Spacegrotesk", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
-
-h1, h2 {
-  text-align: center;
-}
-
-h1 {
-  font-size: 50px;
-}
-
-h2 {
-  font-size: 2em;
 }
 
 img {
@@ -58,4 +59,9 @@ ul {
   justify-content: space-evenly;
   list-style: none;
   display: flex
+}
+
+.container {
+  margin-top: auto;
+  margin-bottom: auto;
 }
