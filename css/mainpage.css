@@ -1,13 +1,13 @@
 body {
   background-color: #5d3e7e;
   color: #cfcfcf;
-  font-family: "Spacegrotesk", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   margin: 0px;
 }
 
 h1 {
   font-size: 50px;
-  color: #cfcfcf;
+  color: #ffd6e5;
   text-align: center;
 }
 
@@ -17,16 +17,18 @@ div {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 28px;
   text-align: center;
-  font-family: "Spacegrotesk", sans-serif;
+  font-family: 'Space Mono', sans-serif;
   margin: 10px 0px 10px;
+  text-shadow: 1px 1px 1px #b685ea;
+  color: #5d3e7e;
 }
 
 div.contrast {
   background-color: #f2ac41;
   color: #b24a7f;
-  font-family: "Spacegrotesk", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
