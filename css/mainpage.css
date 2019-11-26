@@ -3,6 +3,11 @@ body {
   color: #cfcfcf;
   font-family: 'Ubuntu', sans-serif;
   margin: 0px;
+  background-image: url(layout.png);
+  height: 500px;
+  background-postion: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
