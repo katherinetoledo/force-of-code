@@ -3,9 +3,10 @@ body {
   color: #cfcfcf;
   font-family: 'Ubuntu', sans-serif;
   margin: 0px;
-  background-image: url(background.png);
+  background-image: url(../images/background.jpg);
   height: 500px;
-  background-postion: center;
+  background-position: center;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
