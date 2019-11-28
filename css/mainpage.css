@@ -27,12 +27,16 @@ h2 {
 
 h3 {
   font-family: 'Ubuntu', sans-serif;
-  color: #f2ac41;
+  color: #5d3e7e;
+  text-align: center;
+  font-style: bold;
 }
 
-p {
-  color: #cfcfcf;
+h4 {
   font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-style: bold;
 }
 
 div.contrast {
@@ -49,34 +53,4 @@ p {
   width: 40%;
   margin: 10vh 10vw;
   font-size: 15px;
-}
-
-/* links */
-a.class {
-   color: #ffd6e5
-
- }
-
-
-/* nav
-.navbar-toggle.navbar-left {
-  float: left;
-  margin-left: 10px;
-} */
-
-/* ul {
-  list-style: none;
-  padding: 0;
-  margin-bottom: 10%;
-  font-size: 12px;
-  display: flex;
-  justify-content: space-evenly;
-  list-style: none;
-  display: flex
-} */
-
-/* .navbar {
-   padding-top: 30px;
-   padding-bottom: 30px;
-   transition: all 0.5s; */
 }
