@@ -1,6 +1,5 @@
 body {
   background-color: #5d3e7e;
-  color: #cfcfcf;
   font-family: 'Ubuntu', sans-serif;
   margin: 0px;
   background-image: url(../images/background.jpg);
@@ -17,11 +16,6 @@ h1 {
   text-align: center;
 }
 
-div {
-  min-height: 50px;
-  width: 100vw;
-}
-
 h2 {
   font-size: 28px;
   text-align: center;
@@ -31,34 +25,46 @@ h2 {
   color: #5d3e7e;
 }
 
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #f2ac41;
+}
+
+p {
+  color: #cfcfcf;
+  font-family: 'Ubuntu', sans-serif;
+}
+
 div.contrast {
   background-color: #f2ac41;
-  color: #b24a7f;
-  font-family: 'Ubuntu', sans-serif;
+  /* color: #b24a7f;
+  font-family: 'Ubuntu', sans-serif; */
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 
-img {
-  display: flex;
-  padding: 20px;
-  margin: 0 auto;
-  border-radius: 100px;
-}
-
 p {
   width: 40%;
   margin: 10vh 10vw;
-  font-size: 2em;
+  font-size: 15px;
 }
 
-a {
-  color: rgb(0,0,0);
-}
+/* links */
+a.class {
+   color: #ffd6e5
 
-ul {
+ }
+
+
+/* nav
+.navbar-toggle.navbar-left {
+  float: left;
+  margin-left: 10px;
+} */
+
+/* ul {
   list-style: none;
   padding: 0;
   margin-bottom: 10%;
@@ -67,9 +73,10 @@ ul {
   justify-content: space-evenly;
   list-style: none;
   display: flex
-}
+} */
 
-.container {
-  margin-top: auto;
-  margin-bottom: auto;
+/* .navbar {
+   padding-top: 30px;
+   padding-bottom: 30px;
+   transition: all 0.5s; */
 }
