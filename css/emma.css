@@ -27,16 +27,10 @@ h2 {
 
 h3 {
   font-family: 'Ubuntu', sans-serif;
-  color: #5d3e7e;
+  color: #b24a7f;
   text-align: center;
   font-style: bold;
-}
-
-h4 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #ffffff;
-  text-align: center;
-  font-style: bold;
+  font-size: 20px;
 }
 
 div.contrast {
@@ -49,14 +43,8 @@ div.contrast {
   flex-direction: column;
 }
 
-.katy-photo.jpeg img {
-  border-radius: 50%;
-  display:inline-block;
-  vertical-align:middle;
-}
 
 p {
-  /* width: 40%; */
-  margin: 10px 10px;
   font-size: 15px;
-} */
+  text-align: center;
+}
