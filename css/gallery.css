@@ -1,0 +1,80 @@
+body {
+  background-color: #5d3e7e;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0px;
+  background-image: url(../images/background.jpg);
+  height: 500px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  color: #ffd6e5;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+  font-family: 'Space Mono', sans-serif;
+  margin: 10px 0px 10px;
+  text-shadow: 1px 1px 1px #b685ea;
+  color: #5d3e7e;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #5d3e7e;
+  text-align: center;
+  font-style: bold;
+}
+
+h4 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-style: bold;
+}
+
+div.contrast {
+  background-color: #f2ac41;
+  /* color: #b24a7f;
+  font-family: 'Ubuntu', sans-serif; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+/* 
+.tales {
+  width: 50%;
+}
+.carousel-inner{
+  width:100%;
+  max-height: 300px !important;
+  margin: auto;
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+
+/* p {
+  width: 40%;
+  margin: 10vh 10vw;
+  font-size: 15px;
+} */ */
