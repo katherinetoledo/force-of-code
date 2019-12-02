@@ -49,6 +49,11 @@ div.contrast {
   flex-direction: column;
 }
 
+.katy-photo img {
+  border-radius: 50%;
+  display:inline-block;
+  vertical-align:middle;
+}
 
 /* p {
   width: 40%;
