@@ -49,12 +49,18 @@ div.contrast {
   flex-direction: column;
 }
 
-.katy-photo.jpeg img {
+img.roundimage {
   border-radius: 50%;
   display:inline-block;
   vertical-align:middle;
 }
 
+div.space{
+  height: 10px;  
+}
+  
+  
+  
 p {
   /* width: 40%; */
   margin: 10px 10px;
