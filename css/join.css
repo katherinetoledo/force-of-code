@@ -49,6 +49,9 @@ div.contrast {
   flex-direction: column;
 }
 
+div > ul > li {
+  text-align: center;
+}
 
 /* p {
   width: 40%;
