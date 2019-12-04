@@ -27,7 +27,8 @@ h2 {
 
 h3 {
   font-family: 'Ubuntu', sans-serif;
-  color: #5d3e7e;
+  color: #ffffff;
+  text-shadow: 1px 1px 1px #5d3e7e;
   text-align: center;
   font-style: bold;
 }
@@ -48,14 +49,14 @@ div.contrast {
   align-items: center;
   flex-direction: column;
 }
-/* 
-.tales {
-  width: 50%;
+
+div > ul > li {
+  text-align: center;
 }
-.carousel-inner{
-  width:100%;
-  max-height: 300px !important;
-  margin: auto;
+
+div.container{
+    width: 40%;
+    /* height: 50px; */
 }
 
 /* Smaller than standard 960 (devices and browsers) */
@@ -72,13 +73,3 @@ div.contrast {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
-
-/* p {
-  width: 40%;
-  margin: 10vh 10vw;
-  font-size: 15px;
-} */ */
-
-div > ul > li {
-  text-align: center;
-}
