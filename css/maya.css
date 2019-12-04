@@ -18,21 +18,42 @@ h1 {
 
 h2 {
   font-size: 28px;
-  text-align: center;
-  font-family: 'Space Mono', sans-serif;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
   margin: 10px 0px 10px;
-  text-shadow: 1px 1px 1px #b685ea;
+  text-shadow: 1px 1px 1px #5d3e7e;
   color: #5d3e7e;
 }
 
 h3 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #b24a7f;
+  font-family:'Open Sans', Sans-serif;
+  color: #f2ac41;
   text-align: center;
   font-style: bold;
-  font-size: 20px;
+  font-size: 28px;
 }
 
+h4 {
+  font-size: 28px;
+  text-align: center;
+  font-family:'Indie Flower', cursive;
+  font-style: light;
+  margin: 10px 0px 10px;
+  text-shadow: 1px 1px 1px #b685ea;
+  color: #f2ac41;
+}
+
+h5 {
+
+  font-size: 28px;
+  text-align: left;
+  font-family:'Indie Flower', cursive;
+  font-style: light;
+  margin: 10px 0px 10px;
+  text-shadow: 1px 1px 1px #b685ea;
+  color: #f2ac41;
+
+}
 div.contrast {
   background-color: #f2ac41;
   /* color: #b24a7f;
