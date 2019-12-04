@@ -53,6 +53,13 @@ div > ul > li {
   text-align: center;
 }
 
+div.container{
+    width: 30%;
+}    
+
+element.style {
+    width: auto;
+    height: 50vh;
 /* p {
   width: 40%;
   margin: 10vh 10vw;
