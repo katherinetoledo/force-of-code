@@ -64,6 +64,9 @@ div.contrast {
   flex-direction: column;
 }
 
+div > ul > li {
+  text-align: center;
+}
 
 p {
   font-size: 15px;

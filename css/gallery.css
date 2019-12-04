@@ -78,3 +78,7 @@ div.contrast {
   margin: 10vh 10vw;
   font-size: 15px;
 } */ */
+
+div > ul > li {
+  text-align: center;
+}
