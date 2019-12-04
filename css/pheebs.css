@@ -26,11 +26,21 @@ h2 {
 }
 
 h3 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #b24a7f;
+  font-family:'Open Sans', Sans-serif;
+  color: #f2ac41;
   text-align: center;
   font-style: bold;
-  font-size: 20px;
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 28px;
+  text-align: center;
+  font-family:'Indie Flower', cursive;
+  font-style: light;
+  margin: 10px 0px 10px;
+  text-shadow: 1px 1px 1px #b685ea;
+  color: #f2ac41;
 }
 
 div.contrast {
@@ -49,5 +59,8 @@ div > ul > li {
 
 p {
   font-size: 15px;
+  text-align: center;
+}
+.centered {
   text-align: center;
 }
