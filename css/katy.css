@@ -33,6 +33,10 @@ h3 {
   font-size: 20px;
 }
 
+h4 {
+  font-style: italic;
+}
+
 div.contrast {
   background-color: #f2ac41;
   /* color: #b24a7f;
