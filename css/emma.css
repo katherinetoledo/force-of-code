@@ -43,8 +43,11 @@ div.contrast {
   flex-direction: column;
 }
 
-
 p {
   font-size: 15px;
+  text-align: center;
+}
+
+div > ul > li {
   text-align: center;
 }
