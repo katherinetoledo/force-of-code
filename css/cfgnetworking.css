@@ -59,4 +59,9 @@ p {
   /* width: 40%; */
   margin: 10px 10px;
   font-size: 15px;
-} */
+  }
+  
+  div > ul > li {
+    text-align: center;
+  }
+
