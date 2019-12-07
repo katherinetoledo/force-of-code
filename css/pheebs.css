@@ -43,10 +43,16 @@ h4 {
   color: #f2ac41;
 }
 
+.link-color a {
+  text-decoration: underline;
+  font-size: 22px;
+  text-align: center;
+  font-family:'Indie Flower', cursive;
+  color: #f2ac41;
+}
+
 div.contrast {
   background-color: #f2ac41;
-  /* color: #b24a7f;
-  font-family: 'Ubuntu', sans-serif; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -55,12 +61,4 @@ div.contrast {
 
 div > ul > li {
   text-align: center;
-}
-
-.store a {
-  text-decoration: underline;
-  font-size: 22px;
-  text-align: center;
-  font-family:'Indie Flower', cursive;
-  color: #f2ac41;
 }
