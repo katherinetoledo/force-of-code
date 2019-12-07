@@ -18,10 +18,10 @@ h1 {
 
 h2 {
   font-size: 28px;
-  text-align: left;
+  text-align: center;
   font-family: 'Space Mono', sans-serif;
   margin: 10px 0px 10px;
-  text-shadow: 1px 1px 1px #5d3e7e;
+  text-shadow: 1px 1px 1px #b685ea;
   color: #5d3e7e;
 }
 
@@ -45,8 +45,6 @@ h4 {
 
 div.contrast {
   background-color: #f2ac41;
-  /* color: #b24a7f;
-  font-family: 'Ubuntu', sans-serif; */
   display: flex;
   justify-content: center;
   align-items: center;
