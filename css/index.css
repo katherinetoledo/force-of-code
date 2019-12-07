@@ -25,20 +25,6 @@ h2 {
   color: #5d3e7e;
 }
 
-h3 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #5d3e7e;
-  text-align: center;
-  font-style: bold;
-}
-
-h4 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #ffffff;
-  text-align: center;
-  font-style: bold;
-}
-
 div.contrast {
   background-color: #f2ac41;
   /* color: #b24a7f;
@@ -53,8 +39,7 @@ div > ul > li {
   text-align: center;
 }
 
-/* p {
-  width: 40%;
-  margin: 10vh 10vw;
-  font-size: 15px;
-} */
+div.container{
+    width: 30%;
+    text-align: center;
+}    

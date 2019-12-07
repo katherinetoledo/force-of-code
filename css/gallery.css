@@ -28,14 +28,15 @@ h2 {
 h3 {
   font-family: 'Ubuntu', sans-serif;
   color: #ffffff;
-  text-shadow: 1px 1px 1px #5d3e7e;
+  text-shadow: 5px 5px 5px #5d3e7e;
   text-align: center;
   font-style: bold;
 }
 
 h4 {
   font-family: 'Ubuntu', sans-serif;
-  color: #ffffff;
+  color: #f2ac41;
+  text-shadow: 5px 5px 5px #5d3e7e;
   text-align: center;
   font-style: bold;
 }
@@ -56,6 +57,7 @@ div > ul > li {
 
 div.container{
     width: 40%;
+    justify-content: center;
     /* height: 50px; */
 }
 
