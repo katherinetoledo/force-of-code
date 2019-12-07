@@ -40,7 +40,16 @@ h4{
   text-align: center;
   font-style: bold;
   margin: 10px 0px 10px;
-  }
+}
+  
+.col-sm a {
+  text-decoration: underline;
+  font-size: 15px;
+  font-family: 'Space Mono', sans-serif;
+  color: #f2ac41;
+  font-style: bold;
+}
+  
 
 div.contrast {
   background-color: #f2ac41;
