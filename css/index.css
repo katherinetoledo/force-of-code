@@ -1,13 +1,28 @@
 body {
-  background-color: #5d3e7e;
+  background: url(../images/background.jpg) center center;
   font-family: 'Ubuntu', sans-serif;
-  margin: 0px;
-  background-image: url(../images/background.jpg);
-  height: 100%;
-  background-position: center;
-  /* background-attachment: fixed; */
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+div.contrast {
+  background-color: #f2ac41;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img.image {
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
 }
 
 h1 {
@@ -23,16 +38,6 @@ h2 {
   margin: 10px 0px 10px;
   text-shadow: 1px 1px 1px #b685ea;
   color: #5d3e7e;
-}
-
-div.contrast {
-  background-color: #f2ac41;
-  /* color: #b24a7f;
-  font-family: 'Ubuntu', sans-serif; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 
 div > ul > li {
