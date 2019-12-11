@@ -51,9 +51,8 @@ div > ul > li {
 }
 
 div.container{
-    width: 40%;
     justify-content: center;
-    /* height: 50px; */
+    padding-bottom: 100px;
 }
 
 
