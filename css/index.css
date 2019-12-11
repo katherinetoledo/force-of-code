@@ -2,11 +2,9 @@ body {
   background: url(../images/background.jpg) center center;
   font-family: 'Ubuntu', sans-serif;
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
-  background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 div.contrast {

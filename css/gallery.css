@@ -1,11 +1,9 @@
 body {
-  background-color: #5d3e7e;
+  background: url(../images/background.jpg) center center;
   font-family: 'Ubuntu', sans-serif;
-  margin: 0px;
-  background-image: url(../images/background.jpg);
-  height: 100%;
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
 }
 
